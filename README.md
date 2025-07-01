@@ -19,7 +19,7 @@ A modular Python toolkit for generating, trimming, and merging audio files from 
 ## 👩‍🎓 Author
 
 **Kateryna Rakova**  
-Python & Java Developer • QA Automation Engineer • Author of the “Adventures of Professor Green” book series  
+Python & Java Developer • QA Automation Engineer   
 
 📫 Contact: [katerynaKRKR@gmail.com](mailto:katerynaKRKR@gmail.com)  
 🔗 GitHub: [github.com/KaterynaRakova](https://github.com/KaterynaRakova)
